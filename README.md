@@ -8,6 +8,12 @@ function () {
 }
 ```
 
+test of ~~strikethrough~~ 
+
+test of **emphisis**
+
+test of `code`
+
 ## c
 
 ``` c
