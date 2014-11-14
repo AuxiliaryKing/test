@@ -18,6 +18,6 @@ test of `code`
 
 ``` c
 void main () {
-	printf("asd");
+	printf("asdd");
 }
 ```
